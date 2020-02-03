@@ -1,0 +1,1 @@
+0 9-23/2 * * * bash -lc "/home/chabgood/fah_stats_caller.rb"  >  /home/chabgood/fah.log 2>&1
